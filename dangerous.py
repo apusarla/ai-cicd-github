@@ -5,3 +5,4 @@ def run_command(user_input):
 
 1_API_KEY = "sk-live-abc123def456"
 2_API_KEY = "sk-live-abc123def456"
+3_API_KEY = "sk-live-abc123def456"
